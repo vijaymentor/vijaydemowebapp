@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'testcnl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E55E9D0A05B045C6A58424E177E0C4E2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21D575D607E24E38A0ECA2E2BB8A3E02 }}
           package: .
